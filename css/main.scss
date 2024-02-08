@@ -1,0 +1,10 @@
+// Variable overrides first
+
+// Then import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 4rem;
+}
